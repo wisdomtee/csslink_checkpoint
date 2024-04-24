@@ -1,0 +1,47 @@
+/* styles.css */
+
+/* Set font-family to Roboto */
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Style the navigation bar */
+nav {
+    background-color: #333; /* Dark background color */
+    padding: 10px 0; /* Add some padding for spacing */
+}
+
+nav ul {
+    list-style-type: none; /* Remove bullet points */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+nav ul li {
+    display: inline; /* Display list items horizontally */
+    margin-right: 20px; /* Add space between list items */
+}
+
+nav ul li a {
+    color: white; /* Set text color to white */
+    text-decoration: none; /* Remove underline from links */
+}
+
+nav ul li a:hover {
+    color: #ffa500; /* Change text color on hover */
+}
+
+/* Add more styles as needed */
+
+/* Style the sections */
+section {
+    padding: 20px; /* Add padding to sections */
+    margin-bottom: 20px; /* Add margin between sections */
+    border-bottom: 1px solid #ccc; /* Add a border between sections */
+}
+
+h2 {
+    color: #333; /* Set heading color */
+}
+
+/* Add more styles as needed */
